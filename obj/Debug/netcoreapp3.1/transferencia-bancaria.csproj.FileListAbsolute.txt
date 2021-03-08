@@ -1,0 +1,13 @@
+C:\Users\LENIRA\Desktop\projeto-transferencia\bin\Debug\netcoreapp3.1\transferencia-bancaria.exe
+C:\Users\LENIRA\Desktop\projeto-transferencia\bin\Debug\netcoreapp3.1\transferencia-bancaria.deps.json
+C:\Users\LENIRA\Desktop\projeto-transferencia\bin\Debug\netcoreapp3.1\transferencia-bancaria.runtimeconfig.json
+C:\Users\LENIRA\Desktop\projeto-transferencia\bin\Debug\netcoreapp3.1\transferencia-bancaria.runtimeconfig.dev.json
+C:\Users\LENIRA\Desktop\projeto-transferencia\bin\Debug\netcoreapp3.1\transferencia-bancaria.dll
+C:\Users\LENIRA\Desktop\projeto-transferencia\bin\Debug\netcoreapp3.1\transferencia-bancaria.pdb
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.csprojAssemblyReference.cache
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.AssemblyInfoInputs.cache
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.AssemblyInfo.cs
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.dll
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.pdb
+C:\Users\LENIRA\Desktop\projeto-transferencia\obj\Debug\netcoreapp3.1\transferencia-bancaria.genruntimeconfig.cache
